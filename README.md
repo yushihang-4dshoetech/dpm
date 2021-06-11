@@ -1,2 +1,4 @@
 # dpm
-dpm open-source material format:  Data of Physic Material
+dpm open-source material format
+
+DPM stands for Data of Physic Material
